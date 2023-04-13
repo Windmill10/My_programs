@@ -1,0 +1,10 @@
+1. determine whether a grid is valid(for each column, row, box)
+2. insert all possibilities for each cell
+3. solving:
+    1. test all possibilities(brute force)
+        fill in all cells with only one possibility, revise until complete or 
+        all remaining cells have more than one possibility
+        start testing all cases
+
+    2. some algorithmic way
+        apply standard sudoku solving rules(swordfish etc...)

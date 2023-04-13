@@ -1,0 +1,8 @@
+algorithm(response, previous guess), takes in two arguments and produces a new value
+this value is then stored into current_guess and user responses to it 
+then call algorithm(response, current_guess) to come up with a new value, store it into current_guess
+
+1A means that one of the digits in the previous guess is correct, which means that it give more info than 1B
+how to utilize that info?
+1. compare new_guess with previous guess to find identical digits()
+2. find all possibilities that at least x(A) ditgits are in an identical position, in other words, erase all that aren't

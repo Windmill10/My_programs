@@ -1,0 +1,11 @@
+define and implement sudoku rules
+
+rules:
+    1. for each column, row, and nine 3x3 blocks, will satisfy 9 non-repetitive integers(from 1 to nine)
+    2. the code would take user input on integer positions and come up with a anwser for that grid
+
+code:
+    1. create a grid, and a list of numbers
+    2. create a function to check the presence of integers in the corresponding column, row, and 3x3 blocks
+    3. create a function to get input integer and positions
+    

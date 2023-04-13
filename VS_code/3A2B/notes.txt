@@ -1,0 +1,5 @@
+1. function to generate a 4 digit number (completed with func)
+2. function to read a 4 digit number and return As and Bs
+3. function to guess numbers
+4. extend functions to work with more than four digits
+5. conditions: do numbers start with 0? can numbers be repetitive
